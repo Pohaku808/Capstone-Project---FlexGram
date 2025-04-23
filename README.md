@@ -1,6 +1,6 @@
 # 💪 FlexGram — A Health & Fitness Social Media Web App
 
-## Empowering health and fitness one post at a time
+## *"Empowering health and fitness one post at a time"*
 
 ---
 

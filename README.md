@@ -60,6 +60,11 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 - **Database DDL Script:** [FlexGram DDL Script](https://github.com/Pohaku808/FlexGram-DDL-Script.git)
 - **MVC pattern with N-layer architecture**
 - **Diagrams include:**
+  - **Logical Solution Design**
+  <p align="center">
+      <img src="images/logical-design.jpeg" alt="logical design" width="75%"/>
+  </p>
+  
   - **Sitemap**
   <p align="center">
       <img src="images/FlexGram-Sitemap.jpeg" alt="Sitemap" width="75%"/>

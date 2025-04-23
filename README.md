@@ -29,25 +29,21 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 <h3>🔒 Non-Functional Requirements</h3>
 
-
 - Passwords are hashed using BCrypt — no cleartext storage.
-- Responsive design for all devices (desktop, tablet, mobile).
-- Logs support with ASP.NET Core Logger and NLog.
 
 ---
 
 <h3>🛠 Technologies Used</h3>
 
-| Tech               | Purpose                                |
-| ------------------ | -------------------------------------- |
-| ASP.NET Core 8     | Backend Framework                      |
-| MAMP               | Local database environment             |
-| Bootstrap 5        | Responsive UI framework                |
-| Chart.js           | Visual macro chart                     |
-| AJAX/JavaScript    | Asynchronous UI interactions           |
-| HTML/CSS           | UI layout and styling                  |
-| NLog + ILogger     | Logging and diagnostics                |
-| BCrypt.NET         | Password hashing and security          |
+| Tech               | Purpose                                                           |
+| ------------------ | ----------------------------------------------------------------- |
+| ASP.NET Core 8     | Backend Framework                                                 |
+| MAMP               | Local database environment                                        |
+| Bootstrap 5        | Responsive UI framework                                           |
+| Chart.js           | Visual macro chart                                                |
+| AJAX/JavaScript    | Asynchronous UI interactions & client-side interactivity          |
+| HTML/CSS           | UI layout and styling                                             |
+| BCrypt.NET         | Password hashing and security                                     |
 
 ---
 

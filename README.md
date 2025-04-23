@@ -70,7 +70,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
   ![Sitemap](images/FlexGram-ER-Diagram.jpeg)
 
   - UML class diagrams (PDF)
-
+    - [View the UML Diagrams for FlexGram](documents/FlexGram-UML-Diagram.pdf)
 ---
 
 <h3>🧪 DevOps & Deployment</h3>

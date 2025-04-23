@@ -62,7 +62,8 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 - Site structure includes Feed, Post Creation, Macro Counter, and Profile pages.
 - Diagrams include:
   - Sitemap
-  - ![Sitemap](images/FlexGram Sitemap.jpeg)
+  ![Sitemap](images/FlexGram%20Sitemap.jpeg)
+
   - UI wireframes
   - ERD
   - UML class diagrams (PDF)

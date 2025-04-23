@@ -56,8 +56,10 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 <h3>🧰 Architecture & Design </h3>
 
-- MVC pattern with N-layer architecture.
+- UML class diagrams (PDF)
+  - [View the UML Diagrams for FlexGram](documents/FlexGram-UML-Diagram.pdf)
 - Database DDL Script: [FlexGram DDL Script](https://github.com/Pohaku808/FlexGram-DDL-Script.git).
+- MVC pattern with N-layer architecture
 - Diagrams include:
   - Sitemap
   <p align="center">
@@ -77,8 +79,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
     <img src="images/FlexGram-ER-Diagram.jpeg" alt="ER Diagram" width="75%"/>
   </p>
   
-  - UML class diagrams (PDF)
-    - [View the UML Diagrams for FlexGram](documents/FlexGram-UML-Diagram.pdf)
+
 ---
 
 <h3>🧪 DevOps & Deployment</h3>

@@ -1,31 +1,34 @@
-# 💪 FlexGram — A Health & Fitness Social Media Web App
+<h1 align="center">💪 FlexGram — A Health & Fitness Social Media Web App</h3>
 
-## *"Empowering health and fitness one post at a time"*
+<h3 align="center"><em>"Empowering health and fitness one post at a time"</em></h3>
 
 ---
 
-## 📌 Introduction
+<h3>📌 Introduction</h3>
 
 FlexGram is a health and fitness-focused social media web application designed to foster a community around healthy living. Users can share recipes, workout content, health tips, and track macronutrients with a built-in macro counter. Our goal: one platform to empower users on their journey to better health.
 
 ---
 
-## 🎯 Problem Statement
+<h3>🎯 Problem Statement</h3>
+
 
 People often use scattered apps for recipes, workouts, and macro tracking. FlexGram centralizes these into one streamlined, community-driven platform to help users live healthier lives with motivation and social interaction.
 
 ---
 
-## ✅ Functional Requirements
+<h3>✅ Functional Requirements</h3>
+
 
 - Post and share healthy recipes, workout videos, and health tips.
-- View and comment on other users’ content in a feed page.
+- View and like other users’ content in a feed page.
 - Track macronutrients and calories with a visual macro counter.
 - Secure user authentication and profile management.
 
 ---
 
-## 🔒 Non-Functional Requirements
+<h3>🔒 Non-Functional Requirements</h3>
+
 
 - Passwords are hashed using BCrypt — no cleartext storage.
 - Responsive design for all devices (desktop, tablet, mobile).
@@ -33,7 +36,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 ---
 
-## 🛠 Technologies Used
+<h3>🛠 Technologies Used</h3>
 
 | Tech               | Purpose                                |
 | ------------------ | -------------------------------------- |
@@ -48,7 +51,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 ---
 
-## 🧠 New Technologies Learned
+<h3>🧠 New Technologies Learned</h3>
 
 - BCrypt.NET for secure password storage.
 - Chart.js for dynamic data visualizations.
@@ -56,7 +59,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 ---
 
-## 🧰 Architecture & Design
+<h3>🧰 Architecture & Design </h3>
 
 - MVC pattern with N-layer architecture.
 - Database ERD and DDL available: [GitHub Repo – DDL Scripts](#).
@@ -69,7 +72,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 ---
 
-## 🧪 DevOps & Deployment
+<h3>🧪 DevOps & Deployment</h3>
 
 While not yet cloud-hosted, FlexGram follows DevOps principles like:
 - Modular, testable design.
@@ -78,7 +81,7 @@ While not yet cloud-hosted, FlexGram follows DevOps principles like:
 
 ---
 
-## 🛑 Risks & Mitigation
+<h3>🛑 Risks & Mitigation</h3>
 
 | Risk                             | Resolution                                  |
 | -------------------------------- | ------------------------------------------- |
@@ -89,14 +92,14 @@ While not yet cloud-hosted, FlexGram follows DevOps principles like:
 
 ---
 
-## ❗ Outstanding Issues
+<h3>❗ Outstanding Issues</h3>
 
 - Currently not deployed to a cloud environment.
 - Further polish needed for UI consistency across mobile devices.
 
 ---
 
-## 🎓 Final Thoughts
+<h3>🎓 Final Thoughts</h3>
 
 FlexGram was an incredible journey in full-stack development, real-world problem-solving, and creating an app with real community impact. With more refinement and cloud deployment, this project has the potential to become a go-to fitness and nutrition platform.
 

@@ -58,7 +58,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 <h3>🧰 Architecture & Design </h3>
 
 - MVC pattern with N-layer architecture.
-- Database ERD and DDL available: [GitHub Repo – DDL Scripts](#).
+- Database DDL Script: [GitHub Repo – DDL Scripts](#).
 - Site structure includes Feed, Post Creation, Macro Counter, and Profile pages.
 - Diagrams include:
   - Sitemap

@@ -12,7 +12,6 @@ FlexGram is a health and fitness-focused social media web application designed t
 
 <h3>🎯 Problem Statement</h3>
 
-
 People often use scattered apps for recipes, workouts, and macro tracking. FlexGram centralizes these into one streamlined, community-driven platform to help users live healthier lives with motivation and social interaction.
 
 ---
@@ -59,7 +58,6 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 - MVC pattern with N-layer architecture.
 - Database DDL Script: [FlexGram DDL Script](https://github.com/Pohaku808/FlexGram-DDL-Script.git).
-- Site structure includes Feed, Post Creation, Macro Counter, and Profile pages.
 - Diagrams include:
   - Sitemap
   <p align="center">

@@ -64,9 +64,14 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
       <img src="images/FlexGram-Sitemap.jpeg" alt="Sitemap" width="75%"/>
   </p>
 
-
   - UI wireframes
-    
+  <p align="center">
+      <img src="images/UI-login.jpeg" alt="Sitemap" width="45%"/>
+      <img src="images/UI-feed.jpeg" alt="Sitemap" width="45%"/>
+      <img src="images/UI-macro-counter.jpeg" alt="Sitemap" width="45%"/>
+      <img src="images/UI-profile.jpeg" alt="Sitemap" width="45%"/>
+  </p>
+  
   - ERD
   <p align="center">
     <img src="images/FlexGram-ER-Diagram.jpeg" alt="ER Diagram" width="75%"/>

@@ -56,25 +56,22 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 <h3>🧰 Architecture & Design </h3>
 
-- UML class diagrams (PDF)
-  - [View the UML Diagrams for FlexGram](documents/FlexGram-UML-Diagram.pdf)
-- Database DDL Script: [FlexGram DDL Script](https://github.com/Pohaku808/FlexGram-DDL-Script.git).
-- MVC pattern with N-layer architecture
-- Diagrams include:
-  - Sitemap
+- **UML class diagrams (PDF):** [View the UML Diagrams for FlexGram](documents/FlexGram-UML-Diagram.pdf)
+- **Database DDL Script:** [FlexGram DDL Script](https://github.com/Pohaku808/FlexGram-DDL-Script.git)
+- **MVC pattern with N-layer architecture**
+- **Diagrams include:**
+  - **Sitemap**
   <p align="center">
       <img src="images/FlexGram-Sitemap.jpeg" alt="Sitemap" width="75%"/>
   </p>
 
-  - UI wireframes
+  - **User Interface Wireframes**
   <p align="center">
-      <img src="images/UI-login.jpeg" alt="login" width="45%"/>
-      <img src="images/UI-feed.jpeg" alt="Sitemap" width="45%"/>
-      <img src="images/UI-macro-counter.jpeg" alt="Sitemap" width="45%"/>
-      <img src="images/UI-profile.jpeg" alt="Sitemap" width="45%"/>
+      <img src="images/UI-macro-counter.jpeg" alt="macrocounter" width="45%"/>
+      <img src="images/UI-profile.jpeg" alt="profile" width="45%"/>
   </p>
   
-  - ERD
+  - **Entity-Relationship Diagram**
   <p align="center">
     <img src="images/FlexGram-ER-Diagram.jpeg" alt="ER Diagram" width="75%"/>
   </p>

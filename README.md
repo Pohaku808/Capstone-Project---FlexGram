@@ -86,10 +86,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 <h3>🧪 DevOps & Deployment</h3>
 
-While not yet cloud-hosted, FlexGram follows DevOps principles like:
-- Modular, testable design.
-- Environment-based configuration.
-- Logging and diagnostics integration.
+Not Hosted in the cloud yet.
 
 ---
 

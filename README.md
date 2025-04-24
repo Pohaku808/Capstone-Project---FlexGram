@@ -108,11 +108,15 @@ Not Hosted in the cloud yet.
 <h3>❗ Outstanding Issues</h3>
 
 - Currently not deployed to a cloud environment.
-- Further polish needed for UI consistency across mobile devices.
+- Further polish needed for UI consistency across different devices.
+- Creating a Video post takes a while to upload
+- When viewing a video post it tends to buffer sometimes.
 
 ---
 
-<h3>🎓 Final Thoughts</h3>
-
-FlexGram was an incredible journey in full-stack development, real-world problem-solving, and creating an app with real community impact. With more refinement and cloud deployment, this project has the potential to become a go-to fitness and nutrition platform.
+<h3>🎓 Final Product</h3>
+  <p align="center">
+      <img src="images/UI-macro-counter.jpeg" alt="macrocounter" width="45%"/>
+      <img src="images/UI-profile.jpeg" alt="profile" width="45%"/>
+  </p>
 

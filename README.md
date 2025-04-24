@@ -50,7 +50,7 @@ People often use scattered apps for recipes, workouts, and macro tracking. FlexG
 
 - BCrypt.NET for secure password storage.
 - Chart.js for dynamic data visualizations.
-- AJAX with Partial Views in ASP.NET for seamless updates.
+- AJAX for seamless updates.
 
 ---
 

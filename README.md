@@ -92,12 +92,16 @@ Not Hosted in the cloud yet.
 
 <h3>🛑 Risks & Mitigation</h3>
 
-| Risk                             | Resolution                                  |
-| -------------------------------- | ------------------------------------------- |
-| Difficulty with responsive UI   | Practiced Bootstrap, explored responsive design. |
-| Trouble with AJAX                | Researched and implemented partial views.  |
-| Pie chart visualization          | Learned Chart.js integration.              |
-| Identity errors                  | Alternative custom authentication approach. |
+- During our project proposal the team identified any potential risks that team may encounter and are meant to be addressed and managed throughout the project's implementation. 
+- Below is a table with the risks that was found during the project's proposal phase:
+
+| Risk                             | Resolution                                       |
+| -------------------------------- | ------------------------------------------------ |
+| Difficulty with responsive UI    | Practiced Bootstrap, explored responsive design. |
+| Trouble with AJAX                | Research and practice using AJAX                 |
+| Front end development may be lacking | Research and practice more with CSS and JavaScript|
+| Pie chart visualization          | Learn how to implement Chart.js                  |
+| ASP.NET Core Identity errors     | Alternative custom authentication approach (ex. Cookie-based Authentication)|      
 
 ---
 

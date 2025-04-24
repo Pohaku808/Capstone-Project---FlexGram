@@ -116,7 +116,12 @@ Not Hosted in the cloud yet.
 
 <h3>🎓 Final Product</h3>
   <p align="center">
-      <img src="images/UI-macro-counter.jpeg" alt="macrocounter" width="45%"/>
-      <img src="images/UI-profile.jpeg" alt="profile" width="45%"/>
+      <img src="images/Final-home.jpeg" alt="home" width="45%"/>
+      <img src="images/Final-registration.jpeg" alt="registration" width="45%"/>
+      <img src="images/Final-login.jpeg" alt="registration" width="45%"/>
+      <img src="images/Final-feed.jpeg" alt="registration" width="45%"/>
+      <img src="images/Final-createpost.jpeg" alt="registration" width="45%"/>
+      <img src="images/Final-macrocounter.jpeg" alt="registration" width="45%"/>
+      <img src="images/Final-profile.jpeg" alt="registration" width="45%"/>
   </p>
 

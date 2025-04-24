@@ -107,7 +107,6 @@ Not Hosted in the cloud yet.
 
 <h3>❗ Outstanding Issues</h3>
 
-- Currently not deployed to a cloud environment.
 - Further polish needed for UI consistency across different devices.
 - Creating a Video post takes a while to upload
 - When viewing a video post it tends to buffer sometimes.
